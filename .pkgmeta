@@ -1,0 +1,5 @@
+package-as: ShadowedUnitFrames
+
+move-folders:
+  ShadowedUnitFrames/ShadowedUnitFrames: ShadowedUnitFrames
+  ShadowedUnitFrames/ShadowedUF_Options: ShadowedUnitFrames
